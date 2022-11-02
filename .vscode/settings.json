@@ -10,7 +10,7 @@
   "editor.formatOnSave": true,
   "editor.formatOnPaste": true,
 
-  // explorer 
+  // explorer
   "explorer.compactFolders": false,
 
   // workbench
